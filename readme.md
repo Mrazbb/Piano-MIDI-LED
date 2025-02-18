@@ -1,4 +1,4 @@
-# Illuminating Piano Keys with an LED Strip and ESP32
+# Lighting Piano Keys with an LED Strip and ESP32
 
 This project creates synchronized visual effects on a piano by illuminating an LED strip based on MIDI data. The system translates real-time MIDI messages from a piano into dynamic lighting patterns. 
 
