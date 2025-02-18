@@ -5,8 +5,7 @@
 
 https://github.com/user-attachments/assets/6d4d9031-3474-4080-8b39-3a847859fb8f
 
-
-![Marek Mráz]{https://www.youtube.com/@MarekMrazMusic}
+[Marek Mráz](https://www.youtube.com/@MarekMrazMusic)
 
 
 
