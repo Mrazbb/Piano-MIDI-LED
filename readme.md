@@ -7,6 +7,10 @@ Check out my YouTube channel. [Marek Mráz - Music](https://www.youtube.com/@Mar
 https://github.com/user-attachments/assets/6d4d9031-3474-4080-8b39-3a847859fb8f
 
 
+
+![circuit](image.png)
+
+
 This project creates synchronized visual effects on a piano by illuminating an LED strip based on MIDI data. The system translates real-time MIDI messages from a piano into dynamic lighting patterns. 
 
 
